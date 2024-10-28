@@ -1,5 +1,5 @@
 
-# Operational Guide 
+# Marketing Analytics Project
 
 ## Environment Setup
 
